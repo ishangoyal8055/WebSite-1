@@ -73,5 +73,5 @@ https://github.com/mojombo/jekyll
 
 ## Generate the site and serve
 
-- `jekyll serve`
+- `jekyll serve --baseurl ''` (or whatever base url you will be using, e.g. '/DeveloperPortal')
 - Browse to [localhost:4000](http://localhost:4000) to view the site
